@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.52.0"
+  version: "1.53.0"
 
 package:
   name: google-cloud-compute
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/g/google-cloud-compute/google_cloud_compute-${{ version }}.tar.gz
-  sha256: 3d264373555db7117b8f58ab290ba64d13f812233e152ea5366f208c736fae5c
+  sha256: be66ea730e8e533268884dd27f8acc1741a697c670206e6c849cf042fd88cd96
 
 build:
   number: 0
